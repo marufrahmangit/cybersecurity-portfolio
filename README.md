@@ -21,7 +21,7 @@ Additionally, it has paved the way for me to pursue one of the following cyberse
 - IT Security Analyst
 - Cyber Defense Analyst
 
-# Projects
+## Projects I worked on
 Here is a list of projects I have completed and acquired associated skills and knowledge:
 
 | Projects | Skills/Knowledge |
@@ -34,3 +34,16 @@ Here is a list of projects I have completed and acquired associated skills and k
 | Tcpdump & Wireshark | Packet Analyzer |
 | IDS & SIEM | Intrusion Detection System (IDS): Suricata, Security Information and Event Management (SIEM): Chronicle, Splunk |
 | Automation with Python | Computer Programming, Python Programming, Coding, PEP 8 Style Guide |
+
+## Tools
+Tools I used:
+
+- Markdown Language
+- Tcpdump
+- Wireshark
+- Linux OS
+- SQL
+- Chronicle
+- Splunk
+- Suricata
+- Python
