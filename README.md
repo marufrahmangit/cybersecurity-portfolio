@@ -22,9 +22,9 @@ Additionally, it has paved the way for me to pursue one of the following cyberse
 - Cyber Defense Analyst
 
 # Skills
-Here is a list of projects I have done to acquire skills and knowledge in Cybersecurity:
+Here is a list of projects I have completed to acquire skills and knowledge in Cybersecurity:
 
-| Projects | Skills/Knowledge Gained |
+| Projects | Skills |
 | --------------- | --------------- |
 | Conduct a security audit | INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad |
 | Network Security | TCP/IP model, Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks |
