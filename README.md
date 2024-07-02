@@ -24,6 +24,11 @@ Additionally, it has paved the way for me to pursue one of the following cyberse
 # Skills
 | Projects | Skills/Knowledge Gained |
 | --------------- | --------------- |
-| Row 1, Column 1 | Row 1, Column 2 |
-| Row 2, Column 1 | Row 2, Column 2 |
-| Row 3, Column 1 | Row 3, Column 2 |
+| Conduct a security audit | INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad |
+| Network Security | TCP/IP model, Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks |
+| Linux & SQL | Command-line Interface, SQL, Linux, Bash |
+| Assets, Threats, & Vulnerabilities | Authentication,  Vulnerability assessment, Cryptography, Asset Classification, Threat Modelling Analysis |
+| Detection & Response | Incident Lifecycle, Incident Journal |
+| Tcpdump & Wireshark | Packet Analyzer |
+| IDS & SIEM | Intrusion Detection System (IDS): Suricata, Security Information and Event Management (SIEM): Chronicle, Splunk |
+| Automation with Python | Computer Programming, Python Programming, Coding, PEP 8 Style Guide |
