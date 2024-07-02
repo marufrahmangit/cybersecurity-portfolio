@@ -24,9 +24,9 @@ Additionally, it has paved the way for me to pursue one of the following cyberse
 # Projects
 Here is a list of projects I have completed and acquired associated skills and knowledge:
 
-| Projects | Skills |
+| Projects | Skills/Knowledge |
 | --------------- | --------------- |
-| Conduct a security audit | INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad |
+| Conduct a Security Audit | INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad |
 | Network Security | TCP/IP model, Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks |
 | Linux & SQL | Command-line Interface, SQL, Linux, Bash |
 | Assets, Threats, & Vulnerabilities | Authentication,  Vulnerability assessment, Cryptography, Asset Classification, Threat Modelling Analysis |
