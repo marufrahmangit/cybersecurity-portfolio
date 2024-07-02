@@ -21,8 +21,8 @@ Additionally, it has paved the way for me to pursue one of the following cyberse
 - IT Security Analyst
 - Cyber Defense Analyst
 
-# Skills
-Here is a list of projects I have completed to acquire skills and knowledge in Cybersecurity:
+# Projects
+Here is a list of projects I have completed and acquired associated skills and knowledge:
 
 | Projects | Skills |
 | --------------- | --------------- |
