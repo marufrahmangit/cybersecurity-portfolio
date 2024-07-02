@@ -35,7 +35,7 @@ Here is a list of projects I have completed and acquired associated skills and k
 | IDS & SIEM | Intrusion Detection System (IDS): Suricata, Security Information and Event Management (SIEM): Chronicle, Splunk |
 | Automation with Python | Computer Programming, Python Programming, Coding, PEP 8 Style Guide |
 
-### Tools used:
+### Tools used
 - Markdown Language
 - Tcpdump
 - Wireshark
@@ -45,3 +45,6 @@ Here is a list of projects I have completed and acquired associated skills and k
 - Splunk
 - Suricata
 - Python
+
+### Other References
+[Malware Applications](https://github.com/marufrahmangit/project-malware) (Python)
