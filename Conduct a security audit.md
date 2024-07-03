@@ -64,19 +64,22 @@ Control types (providing defense and protecting assets) include, but are not lim
 
 Does Botium Toys currently have this control in place? 
 
-| Yes / No / ? | Control | Explanation |
+| Yes / No | Control | Explanation |
 | :-------        |    :---:   | :---     |
 | No | Least Privilege | The employees have access to customer data. This has to be changed to reduce the risk of breach. |
-| No | Disaster Recovery Plan | At the moment, there is no plan for handling the disaster. Implementing this ensures the business continuity. |
+| No | Disaster Recovery Plan | At the moment, there is no plan for handling the disaster. Implementing this ensures business continuity. |
+| Yes* | Password policies | Password policy exists but its requirements are nominal and not in line with current minimum password complexity requirements. |
+| No | Separation of Duties | The employees have access to customer data. This has to be changed to reduce the risk of breach. |
 | Yes | Firewall | The organization has a firewall to block traffic based on an appropriately defined set of security rules. |
-| ? | Password policies | Password policy exists, yet the requirements are considered weak and put identity management access at risk. |
+| No | IDS | This would help the IT team to identify possible intrusions by the threat actors. |
 | Yes | Antivirus | The antivirus software is active and regularly monitored by the IT team. |
 | No | Backups | This is the same as the disaster recovery plan. They are not prepared in the case of a breach. They have to implement a backup plan, such as incremental, full, or partial. |
 | No | Encryption | This would protect the confidentiality of data. |
-| No | IDS | This would help the IT team to identify possible intrusions by the threat actors. | 
-| Yes | Storefront| Although the IT team is not responsible for the management at the storefront, however, the organization should have sufficient locks.|
+| Yes | Storefront | Although the IT team is not responsible for the management at the storefront, however, the organization should have sufficient locks.|
 | Yes | CCTV | It is working and functioning. |
 | Yes | Fire detection | The organization has these. However, the team should maintain it and establish a plan on how to use it. |
+
+`*` *has condition*
 
 ## Compliance Checklist
 Does Botium Toys currently adhere to this compliance best practice? 
