@@ -74,8 +74,7 @@ Does Botium Toys currently have this control in place?
 | No | Intrusion Detection System (IDS) | Required to identify possible intrusions by threat actors. |
 | No | Backups | Unprepared for a breach. Implementation of a backup plan, such as incremental, full, or partial is required. |
 | Yes | Antivirus software |  |
-| Yes* | Manual monitoring, maintenance, and intervention for legacy
-systems | Legacy systems are monitored and maintained but there is no regular schedule in place for these tasks, and intervention methods are unclear. |
+| Yes* | Manual monitoring, maintenance, and intervention for legacy systems | Legacy systems are monitored and maintained but there is no regular schedule in place for these tasks, and intervention methods are unclear. |
 | No | Encryption | Required for confidentiality of data. |
 | Yes | Locks (Storefront) | |
 | Yes | CCTV |  |
