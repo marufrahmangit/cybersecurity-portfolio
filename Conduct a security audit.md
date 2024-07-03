@@ -65,7 +65,7 @@ Control types (providing defense and protecting assets) include, but are not lim
 Does Botium Toys currently have this control in place? 
 
 | Yes / No | Control | Note |
-| :-------        |    :---:   | :---     |
+|---------|-----------|-------------------|
 | No | Least Privilege | All employees have access to data including customer credit card information. A least privilege policy needs to be implemented to avoid possible breaches. |
 | No | Disaster Recovery Plan | There is no plan for handling the disaster. Implementing this ensures business continuity. |
 | Yes* | Password policies | Password policy exists but its requirements are nominal and not in line with current minimum password complexity requirements. |
