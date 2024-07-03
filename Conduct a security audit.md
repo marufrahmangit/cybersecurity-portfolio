@@ -65,7 +65,7 @@ Control types (providing defense and protecting assets) include, but are not lim
 Does Botium Toys currently have this control in place? 
 
 | Yes / No | Control | Note |
-|-----|-------|-------------------|
+|:---:|-------|-------------------|
 | No | Least Privilege | All employees have access to data including customer credit card information. A least privilege policy needs to be implemented to avoid possible breaches. |
 | No | Disaster Recovery Plan | There is no plan for handling the disaster. Implementing this ensures business continuity. |
 | Yes* | Password policies | Password policy exists but its requirements are nominal and not in line with current minimum password complexity requirements. |
@@ -89,7 +89,7 @@ Does Botium Toys currently adhere to this compliance best practice?
 * Payment Card Industry Data Security Standard (PCI DSS)
 
 | Yes/ No | Best Practice | Note |
-|-----|-------|-------------------|
+|:---:|-------|-------------------|
 | No | Only authorized users have access to customers’ credit card information. | At the moment, all employees have access to data.  |
 | No | Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment. |  |
 | No | Implement data encryption procedures to better secure credit card transaction touchpoints and data. |  | 
@@ -100,7 +100,7 @@ Does Botium Toys currently adhere to this compliance best practice?
 * GDPR
   
 | Yes/ No | Best Practice | Note |
-|-----|-------|-------------------|
+|:---:|-------|-------------------|
 | No* | E.U. customers’ data is kept private/secured. | |
 | Yes | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach.| |
 | No | Ensure data is properly classified and inventoried. | |
@@ -111,7 +111,7 @@ Does Botium Toys currently adhere to this compliance best practice?
 * System and Organizations Controls 
 
 | Yes/ No | Best Practice | Note |
-|-----|-------|-------------------|
+|:---:|-------|-------------------|
 | No | User access policies are established | Employees have access to internally stored data which means the access policy has not been applied. |
 | No | Sensitive data (PII/SPII) is confidential/private. | Employees have access to data which means the access to sensitive data is not confidential. |
 | Yes | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |  | 
