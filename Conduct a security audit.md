@@ -2,7 +2,7 @@
 
 [Project reference](https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity) 
 
-## Case Study
+## Case Study Scenario
 
 This is based on a fictional company:
 
@@ -14,11 +14,9 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist.
 
-## Scenario
-Botium Toys: Scope, Goals, and Risk Assessment Report
+## Scope and goals of the audit
 
 ### Scope 
-
 The scope of this audit is defined as the entire security program at Botium Toys. This includes their assets like employee equipment and devices, their internal network, and their systems. You will need to review the assets Botium Toys has and the controls and compliance practices they have in place.
 
 ### Goals
