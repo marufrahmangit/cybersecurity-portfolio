@@ -102,7 +102,7 @@ Does Botium Toys currently adhere to this compliance best practice?
   
 | Yes/ No | Best Practice | Note |
 |:---:|-------|-------------------|
-| No* | E.U. customers’ data is kept private/secured. | |
+| No* | E.U. customers’ data is kept private/secured. | All employees have access to customer data. |
 | Yes | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach.| |
 | No | Ensure data is properly classified and inventoried. | |
 | Yes | Enforce privacy policies, procedures, and processes to properly document and maintain data. | |
