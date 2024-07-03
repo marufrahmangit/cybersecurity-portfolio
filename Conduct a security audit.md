@@ -79,7 +79,7 @@ Does Botium Toys currently have this control in place?
 | Yes | CCTV | It is working and functioning. |
 | Yes | Fire detection | The organization has these. However, the team should maintain it and establish a plan on how to use it. |
 
-`*` *has condition*
+**has condition*
 
 ## Compliance Checklist
 Does Botium Toys currently adhere to this compliance best practice? 
