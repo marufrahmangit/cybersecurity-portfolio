@@ -10,14 +10,14 @@ The manager of the IT department has decided that an internal IT audit needs to 
 
 The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
 
-Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
+Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist.
 
 ## Scenario
 Botium Toys: Scope, Goals, and Risk Assessment Report
 
 ### Scope 
 
-The scope is defined as the entire security program at Botium Toys. This means all assets need to be assessed alongside internal processes and procedures related to the implementation of controls and compliance best practices.
+The scope of this audit is defined as the entire security program at Botium Toys. This includes their assets like employee equipment and devices, their internal network, and their systems. You will need to review the assets Botium Toys has and the controls and compliance practices they have in place.
 
 ### Goals
 Assess existing assets and complete the controls and compliance checklist to determine which controls and compliance best practices need to be implemented to  improve Botium Toys’ security posture.
@@ -45,7 +45,7 @@ The first of the five functions of the NIST CSF is Identify. Botium Toys will ne
 On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of controls and adherence to compliance best practices.
 
 #### Additional comments
-The potential impact from the loss of an asset is rated as medium, because the IT department does not know which assets would be at risk. The risk to assets or fines from governing bodies is high because Botium Toys does not have all of the necessary controls in place and is not fully adhering to best practices related to compliance regulations that keep critical data private/secure. Review the following bullet points for specific details:
+The potential impact from the loss of an asset is rated as medium because the IT department does not know which assets would be at risk. The risk to assets or fines from governing bodies is high because Botium Toys does not have all of the necessary controls in place and is not fully adhering to best practices related to compliance regulations that keep critical data private/secure. Review the following bullet points for specific details:
 
 #### Additional Info 
 
@@ -62,24 +62,24 @@ Control types (providing defense and protecting assets) include, but are not lim
 
 ## Controls Assessment Checklist
 
-Does Botium Toys currenly have this control in place? 
+Does Botium Toys currently have this control in place? 
 
 | Yes / No / ? | Control | Explanation |
 | :-------        |    :---:   | :---     |
-| No | Least Privilige | The employees have access to customer data. This has to be changed to reduce the risk of breach. |
-| No | Disaster Recovery Plan | At the moment, there is no plan for handling disaster. Implementing this ensures the business continuity. |
+| No | Least Privilege | The employees have access to customer data. This has to be changed to reduce the risk of breach. |
+| No | Disaster Recovery Plan | At the moment, there is no plan for handling the disaster. Implementing this ensures the business continuity. |
 | Yes | Firewall | The organization has a firewall to block traffic based on an appropriately defined set of security rules. |
-| ? | Password policies | Password policy exists, yet the requirements are considered weak and put the identity management access at risk. |
-| Yes | Antivirus | The antivirus software is active and regulary monitored by IT team. |
-| No | Backups | This is as same as disaster recovery plan. They are not prepared in the case of breach. They have to implement the backup plan, such as incremental, full, or partial. |
-| No | Encryption | This would protect confidentiality of data. |
-| No | IDS | This would help IT team to identiy possible intrusions by the threat actors. | 
-| Yes | Storefront| Although IT team is not responsible for the management at the storefront, however the organization should have sufficient locks.|
+| ? | Password policies | Password policy exists, yet the requirements are considered weak and put identity management access at risk. |
+| Yes | Antivirus | The antivirus software is active and regularly monitored by the IT team. |
+| No | Backups | This is the same as the disaster recovery plan. They are not prepared in the case of a breach. They have to implement a backup plan, such as incremental, full, or partial. |
+| No | Encryption | This would protect the confidentiality of data. |
+| No | IDS | This would help the IT team to identify possible intrusions by the threat actors. | 
+| Yes | Storefront| Although the IT team is not responsible for the management at the storefront, however, the organization should have sufficient locks.|
 | Yes | CCTV | It is working and functioning. |
 | Yes | Fire detection | The organization has these. However, the team should maintain it and establish a plan on how to use it. |
 
 ## Compliance Checklist
-Does Botium Toys currenly adhrere to this compliance best practice? 
+Does Botium Toys currently adhere to this compliance best practice? 
 
 * Payment Card Industry Data Security Standard (PCI DSS)
 
@@ -93,7 +93,7 @@ Does Botium Toys currenly adhrere to this compliance best practice?
   
 | Yes/ No / ? | Best Practice | Explanation |
 | :---        |    :---:   | :---     |
-| No | EU customers are kept secured. | The organization does not apply GDPR practice. Thus, it puts them at risk of being fined by the EU government. |
+| No | EU customers are kept secure. | The organization does not apply GDPR practice. Thus, it puts them at risk of being fined by the EU government. |
 | Yes | Privacy policies are maintained properly.| According to the scenario, it has been enforced by the IT Team members and other staff. |
 
 * System and Organizations Controls 
@@ -106,11 +106,11 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 
 ## Recommendations (optional)
 
-After researching Botium Toys's security posture, the analysts agreed that the security practice is far from the expectation. It lacks of protection of confidentialiy of sensitive information. The following are:
+After researching Botium Toys's security posture, the analysts agreed that the security practice is far from the expectation. It lacks protection of confidentiality of sensitive information. The following are:
 1. Least privilege
 2. Disaster recovery plan
 3. Password policies
 4. Encryption
 5. Password management system
 
-To address gaps in compliance, Botium needs to implement and establish the policies that can address the following above. Botium also needs to update its assets so the additional control can be identified as soon as possible to improve their security practice. 
+To address gaps in compliance, Botium needs to implement and establish policies that can address the following above. Botium also needs to update its assets so that additional control can be identified as soon as possible to improve its security practices.
