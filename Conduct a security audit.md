@@ -64,20 +64,22 @@ Control types (providing defense and protecting assets) include, but are not lim
 
 Does Botium Toys currently have this control in place? 
 
-| Yes / No | Control | Explanation |
+| Yes / No | Control | Note |
 | :-------        |    :---:   | :---     |
-| No | Least Privilege | The employees have access to customer data. This has to be changed to reduce the risk of breach. |
-| No | Disaster Recovery Plan | At the moment, there is no plan for handling the disaster. Implementing this ensures business continuity. |
+| No | Least Privilege | All employees have access to data including customer credit card information. A least privilege policy needs to be implemented to avoid possible breaches. |
+| No | Disaster Recovery Plan | There is no plan for handling the disaster. Implementing this ensures business continuity. |
 | Yes* | Password policies | Password policy exists but its requirements are nominal and not in line with current minimum password complexity requirements. |
-| No | Separation of Duties | The employees have access to customer data. This has to be changed to reduce the risk of breach. |
-| Yes | Firewall | The organization has a firewall to block traffic based on an appropriately defined set of security rules. |
-| No | IDS | This would help the IT team to identify possible intrusions by the threat actors. |
-| Yes | Antivirus | The antivirus software is active and regularly monitored by the IT team. |
-| No | Backups | This is the same as the disaster recovery plan. They are not prepared in the case of a breach. They have to implement a backup plan, such as incremental, full, or partial. |
-| No | Encryption | This would protect the confidentiality of data. |
-| Yes | Storefront | Although the IT team is not responsible for the management at the storefront, however, the organization should have sufficient locks.|
-| Yes | CCTV | It is working and functioning. |
-| Yes | Fire detection | The organization has these. However, the team should maintain it and establish a plan on how to use it. |
+| No | Separation of Duties |  |
+| Yes | Firewall | |
+| No | Intrusion Detection System (IDS) | Required to identify possible intrusions by threat actors. |
+| No | Backups | Unprepared for a breach. Implementation of a backup plan, such as incremental, full, or partial is required. |
+| Yes | Antivirus software |  |
+| Yes* | Manual monitoring, maintenance, and intervention for legacy
+systems | Legacy systems are monitored and maintained but there is no regular schedule in place for these tasks, and intervention methods are unclear. |
+| No | Encryption | Required for confidentiality of data. |
+| Yes | Locks (Storefront) | |
+| Yes | CCTV |  |
+| Yes | Fire detection |  |
 
 **has condition*
 
@@ -86,34 +88,42 @@ Does Botium Toys currently adhere to this compliance best practice?
 
 * Payment Card Industry Data Security Standard (PCI DSS)
 
-| Yes/ No / ? | Best Practice | Explanation |
+| Yes/ No | Best Practice | Note |
 | :---        |    :---:   | :---     |
-| No | Authorized users can access to customer's credit card. | At the moment, all employees have access to it which is a bad practice in the business.  |
-| No | Credit card is stored in a secure environment. | It is not encrypted and violates the law and regulations. |
-| No | Encryption is secured. | No, the encryption has not taken place yet. | 
+| No | Only authorized users have access to customers’ credit card information. | At the moment, all employees have access to data.  |
+| No | Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment. |  |
+| No | Implement data encryption procedures to better secure credit card transaction touchpoints and data. |  | 
+| No | Adopt secure password management policies. |  | 
+
+**has condition*
 
 * GDPR
   
-| Yes/ No / ? | Best Practice | Explanation |
+| Yes/ No | Best Practice | Note |
 | :---        |    :---:   | :---     |
-| No | EU customers are kept secure. | The organization does not apply GDPR practice. Thus, it puts them at risk of being fined by the EU government. |
-| Yes | Privacy policies are maintained properly.| According to the scenario, it has been enforced by the IT Team members and other staff. |
+| No* | E.U. customers’ data is kept private/secured. | |
+| Yes | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach.| |
+| No | Ensure data is properly classified and inventoried. | |
+| Yes | Enforce privacy policies, procedures, and processes to properly document and maintain data. | |
+
+**has condition*
 
 * System and Organizations Controls 
 
-| Yes/ No / ? | Best Practice | Explanation |
+| Yes/ No | Best Practice | Note |
 | :---        |    :---:   | :---     |
 | No | User access policies are established | Employees have access to internally stored data which means the access policy has not been applied. |
-| Yes | Data integrity is consistent, complete, accurate | Data integrity is in place. | 
-| No | Data is available to authorized users | Currently, all the employees can access all the data. |
+| No | Sensitive data (PII/SPII) is confidential/private. | Employees have access to data which means the access to sensitive data is not confidential. |
+| Yes | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |  | 
+| No | Data is available to authorized users | Currently, all employees have access to all of the data. |
 
 ## Recommendations (optional)
 
-After researching Botium Toys's security posture, the analysts agreed that the security practice is far from the expectation. It lacks protection of confidentiality of sensitive information. The following are:
+Botium Toys's security practice is far from the expected best practices and security standards. It lacks protection of confidentiality of sensitive information. The following implementations are required:
 1. Least privilege
 2. Disaster recovery plan
 3. Password policies
 4. Encryption
 5. Password management system
 
-To address gaps in compliance, Botium needs to implement and establish policies that can address the following above. Botium also needs to update its assets so that additional control can be identified as soon as possible to improve its security practices.
+To address gaps in compliance, Botium needs to implement and establish policies that can address the above. Botium also needs to update its assets to identify additional controls as soon as possible to improve its security practices.
