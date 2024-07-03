@@ -1,5 +1,7 @@
 # Controls and Compliance Assessment 
 
+### [Project reference](https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity) 
+
 ## Case Study
 
 This is based on a fictional company:
