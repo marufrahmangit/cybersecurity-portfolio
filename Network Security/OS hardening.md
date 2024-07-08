@@ -28,7 +28,7 @@ The cybersecurity team reports that the web server was impacted by a brute force
 
 Your job is to document the incident in detail, including identifying the network protocols used to establish the connection between the user and the website.  You should also recommend a security action to take to prevent brute force attacks in the future.
 
-## How to read DNS & HTTP Traffic log (Modified version, cut short, just for example) 
+## Reading the tcpdump traffic log
 
 | No | Description |
 |---|---|
@@ -36,7 +36,7 @@ Your job is to document the incident in detail, including identifying the networ
 | 2 | 14:18:32.204388 IP dns.google.domain > ***your.machine.52444***: _(E)_ 35084 1/0/0 A 203.0.113.22 (40) <br><br> E: Reply comes back from the DNS server to the source computer with the IP address of the destination URL of yummyrecipesforme.com (203.0.113.22). |
 | 3 | TCP Flag codes include: <br> Flags [S]  - Connection Start <br> Flags [F]  - Connection Finish <br> Flags [P]  - Data Push <br> Flags [R]  - Connection Reset <br> Flags [.]  - Acknowledgment <br><br>  14:18:36.786501 IP your.machine.36086 > yummyrecipesforme.com.http: ***Flags [S]*** _(F)_, seq 2873951608, win 65495, options [mss 65495,sackOK,TS val 3302576859 ecr 0,nop,wscale 7], length 0 <br><br> F: The connection has been started. 
 
-## Traffic Log:
+## Traffic Log
 
 | Description |
 |---|
