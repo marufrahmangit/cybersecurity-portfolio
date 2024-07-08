@@ -1,4 +1,4 @@
-# Cybersecurity Incident Report: Analyze Network Layer Communication
+# Cybersecurity Incident Report: Analyze network layer communication
 [Project reference](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity)
 
 ## Case Study Scenario
