@@ -1,4 +1,4 @@
-# Cybersecurity Incident Report: Analyze Network Attacks
+# Cybersecurity Incident Report: Analyze network attacks
 [Project reference](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity)
 
 ## Case Study Scenario
