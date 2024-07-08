@@ -37,11 +37,11 @@ Your job is to document the incident in detail, including identifying the networ
 | 3 | TCP Flag codes include: <br> Flags [S]  - Connection Start <br> Flags [F]  - Connection Finish <br> Flags [P]  - Data Push <br> Flags [R]  - Connection Reset <br> Flags [.]  - Acknowledgment <br><br>  14:18:36.786501 IP your.machine.36086 > yummyrecipesforme.com.http: ***Flags [S]*** _(F)_, seq 2873951608, win 65495, options [mss 65495,sackOK,TS val 3302576859 ecr 0,nop,wscale 7], length 0 <br><br> F: The connection has been started. 
 
 ## Response
-### Part 1: Identify the network protocol involved in the incident
+### Identify the network protocol involved in the incident
 
 The protocol involved in the incident is the Hypertext Transfer Protocol (HTTP). Since the issue was with accessing the web server for yummyrecipesforme.com, we know that requests to web servers for web pages involve HTTP traffic. Additionally, when we ran tcpdump and accessed the yummyrecipesforme.com website, the corresponding tcpdump log file showed the usage of the HTTP protocol when contacting the server. The malicious file was observed being transported to users’ computers using the HTTP protocol at the application layer.
 
-### Part 2: Document the incident
+### Document the incident
 
 Several customers contacted the website’s helpdesk stating that when they visited the website, they were prompted to download and run a file that contained access to new recipes. Their personal computers have been operating slowly ever since. The website owner tried logging into the web server but noticed they were locked out of their account.
 
@@ -51,7 +51,7 @@ The cybersecurity analyst inspected the tcpdump log and observed that the browse
 
 The senior cybersecurity professional analyzed the source code for the websites and the downloaded file. The analyst discovered that an attacker had manipulated the website to add code that prompted the users to download a malicious file disguised as a browser update. Since the website owner stated that they had been locked out of their administrator account, the team believes the attacker used a brute force attack to access the account and change the admin password. The execution of the malicious file compromised the end users’ computers.
  
- ### Part 3: Recommend one remediation for brute force attacks
+ ### Recommend one remediation for brute force attacks
 
 One security measure the team plans to implement to protect against brute force attacks is to disallow previous passwords from being used. Since the vulnerability that led to this attack was the attacker’s ability to use a default password to log in, it’s important that we prevent any old passwords, such as default passwords, from being used to reset the password.
 
