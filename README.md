@@ -42,6 +42,7 @@ Here is a list of projects I have completed and acquired associated skills and k
 - Markdown Language
 - Tcpdump
 - Wireshark
+- Virtual Box
 - Linux OS
 - SQL
 - Chronicle
