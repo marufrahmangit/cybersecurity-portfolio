@@ -24,7 +24,6 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 - Recover affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
 
 ## NIST Plan
-|||
 |---|---|
 |Summary|The company experienced a security event when all network services suddenly stopped responding. The cybersecurity team found the disruption was caused by a distributed denial of services (DDoS) attack through a flood of incoming ICMP packets. The team responded by blocking the attack and stopping all non-critical network services, so that critical network services could be restored.|
 |Identify|A malicious actor or actors targeted the company with an ICMP flood attack. The entire internal network was affected. All critical network resources needed to be secured and restored to a functioning state.|
