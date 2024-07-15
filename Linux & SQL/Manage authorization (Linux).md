@@ -19,7 +19,7 @@ Here’s how you’ll do this task: First, you’ll check the user and group per
 A hidden file `.projects.txt.`, a `drafts` folder, and a bunch of .txt files are listed along with their permissions.
 
 ### permission explained
-*A 10-character string begins each entry and indicates how the permissions on the file are set. For instance, a directory with full permissions for all owner types would be `drwxrwxrwx`.*
+*A 10-character string begins each entry and indicates how the permissions on the file are set. For instance, a directory with full permissions for all owner types would be `drwxrwxrwx`*.
 - The `1st` character indicates the file type. The d indicates it’s a directory. When this character is a hyphen (-), it's a regular file.
 - The `2nd-4th` characters indicate the read (r), write (w), and execute (x) permissions for the user. When one of these characters is a hyphen (-) instead, it indicates that this permission is not granted to the user.
 - The `5th-7th` characters indicate the read (r), write (w), and execute (x) permissions for the group. When one of these characters is a hyphen (-) instead, it indicates that this permission is not granted for the group.
@@ -47,6 +47,8 @@ The group has read permission on the file.
 The read permission `r` has been removed (highlighted in yellow).
 
 # Change file permissions on a hidden file
-
+- Check the permissions of the hidden file `.project_x.txt`. 
+![image](https://github.com/user-attachments/assets/571847ac-7b41-4da4-b0d3-bd48d170f8b5)
+The user and the group has incorrect `write` permissions.
 
 # Change directory permissions
