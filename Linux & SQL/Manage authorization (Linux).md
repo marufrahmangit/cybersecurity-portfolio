@@ -49,6 +49,7 @@ The read permission `r` has been removed (highlighted in yellow).
 # Change file permissions on a hidden file
 - Check the permissions of the hidden file `.project_x.txt`. 
 ![image](https://github.com/user-attachments/assets/571847ac-7b41-4da4-b0d3-bd48d170f8b5)
+
 The user and the group has incorrect `write` permissions.
 
 # Change directory permissions
