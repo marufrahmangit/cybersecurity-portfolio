@@ -10,8 +10,27 @@ Here’s how you’ll do this task: First, you’ll check the user and group per
 [Project reference](https://www.coursera.org/learn/linux-and-sql/home/welcome)
 
 # Check file and directory details
+1. Navigate to the projects directory:
+![image](https://github.com/user-attachments/assets/633755b2-30e2-4e7d-849a-1d2843643bda)
+
+2. List the contents and permissions of the projects directory:
+![image](https://github.com/user-attachments/assets/6d7e8215-a8e8-4518-b98a-24549f97af1c)
+
+A hidden file `.projects.txt.`, a `drafts` folder, and a bunch of .txt files are listed along with their permissions.
 
 # Change file permissions
+1. Check whether any files in the projects directory have write permissions for the owner type of other:
+
+2. Change the permissions of the file identified in the previous step so that the owner type of other doesn’t have write permissions.
+3. The file project_m.txt is a restricted file and should not be readable or writable by the group or other; only the user should have these permissions on this file. List the contents and permissions of the current directory and check if the group has read or write permissions.
+4. Use the chmod command to change permissions of the project_m.txt file so that the group doesn’t have read or write permissions.
+
+### permission explained
+*A 10-character string begins each entry and indicates how the permissions on the file are set. For instance, a directory with full permissions for all owner types would be `drwxrwxrwx`.*
+- The `1st` character indicates the file type. The d indicates it’s a directory. When this character is a hyphen (-), it's a regular file.
+- The `2nd-4th` characters indicate the read (r), write (w), and execute (x) permissions for the user. When one of these characters is a hyphen (-) instead, it indicates that this permission is not granted to the user.
+- The `5th-7th` characters indicate the read (r), write (w), and execute (x) permissions for the group. When one of these characters is a hyphen (-) instead, it indicates that this permission is not granted for the group.
+- The `8th-10th` characters indicate the read (r), write (w), and execute (x) permissions for the owner type of other. This owner type consists of all other users on the system apart from the user and the group. When one of these characters is a hyphen (-) instead, that indicates that this permission is not granted for other.
 
 # Change file permissions on a hidden file
 
