@@ -27,7 +27,9 @@ A hidden file `.projects.txt.`, a `drafts` folder, and a bunch of .txt files are
 
 # Change file permissions
 1. Check whether any files in the projects directory have write permissions for the owner type of other: The second character `w` from the right-end.
+
 ![image](https://github.com/user-attachments/assets/ee199c22-8eca-44d7-9bc8-6e7100ae41ca)
+
 
 2. Change the permissions of the file identified in the previous step so that the owner type of other doesn’t have write permissions: The highlight in yellow shows `w` (write) permission is removed for the file.
 ![image](https://github.com/user-attachments/assets/6e472aaf-316f-42c6-bee6-d9f4c4c4610f)
