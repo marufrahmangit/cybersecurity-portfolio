@@ -26,12 +26,20 @@ A hidden file `.projects.txt.`, a `drafts` folder, and a bunch of .txt files are
 - The `8th-10th` characters indicate the read (r), write (w), and execute (x) permissions for the owner type of other. This owner type consists of all other users on the system apart from the user and the group. When one of these characters is a hyphen (-) instead, that indicates that this permission is not granted for other.
 
 # Change file permissions
-1. Check whether any files in the projects directory have write permissions for the owner type of other:
+1. Check whether any files in the projects directory have write permissions for the owner type of other: The second character `w` from the right-end 
+![image](https://github.com/user-attachments/assets/ee199c22-8eca-44d7-9bc8-6e7100ae41ca)
 
-2. Change the permissions of the file identified in the previous step so that the owner type of other doesn’t have write permissions.
-3. The file project_m.txt is a restricted file and should not be readable or writable by the group or other; only the user should have these permissions on this file. List the contents and permissions of the current directory and check if the group has read or write permissions.
-4. Use the chmod command to change permissions of the project_m.txt file so that the group doesn’t have read or write permissions.
+2. Change the permissions of the file identified in the previous step so that the owner type of other doesn’t have write permissions: The highlight in yellow shows `w` (write) permission is removed for the file.
+![image](https://github.com/user-attachments/assets/6e472aaf-316f-42c6-bee6-d9f4c4c4610f)
+
+3. The file project_m.txt is a restricted file and should not be readable or writable by the group or other; only the user should have these permissions on this file. List the contents and permissions of the current directory and check if the group has read or write permissions: The group has read permission on the file.
+![image](https://github.com/user-attachments/assets/7bec8a7c-f6d7-497a-81ce-8ee47cb5167e)
+
+4. Change permissions of the project_m.txt file so that the group doesn’t have read or write permissions: The read permission `r` has been removed (highlighted in yellow)
+![image](https://github.com/user-attachments/assets/c6478c04-32c3-49d7-9185-3f0c0a76c4c7)
+
 
 # Change file permissions on a hidden file
+
 
 # Change directory permissions
