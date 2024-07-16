@@ -50,6 +50,6 @@ Here is a list of projects I have completed and acquired associated skills and k
 - Suricata
 - Python
 
-### Other References
+### Other Work
 - [Malware Applications](https://github.com/marufrahmangit/project-malware) (Python)
 - [Data forensics and incident response](https://github.com/marufrahmangit/hack-the-box) (Hackthebox)
