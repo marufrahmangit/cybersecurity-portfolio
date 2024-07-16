@@ -1,5 +1,5 @@
 # Scenario
-In this scenario, as an analyst, you must examine and manage the permissions on the files in the `/home/researcher2/projects` directory for the `researcher2` user.
+As an analyst, you must examine and manage the permissions on the files in the `/home/researcher2/projects` directory for the `researcher2` user.
 
 The `researcher2` user is part of the `research_team` group.
 
