@@ -36,6 +36,7 @@ Navigate to `/home/analyst/logs`, display the name of the file it contains, and 
 ### Search for error messages in a log file
 Navigate to the `/home/analyst/logs` directory and report on the error messages in the `server_logs.txt` file.
 `cd logs` > `ls` > `grep error <file>`
+
 ![image](https://github.com/user-attachments/assets/bcfcf9f6-f08e-4e94-92ee-d03c3721c759)
 
 ### Find files containing specific strings
