@@ -51,5 +51,5 @@ Here is a list of projects I have completed and acquired associated skills and k
 - Python
 
 ### Other Work
-- Python Malware Console Applications [<img width="80" height="80" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.differencebetween.net%2Ftechnology%2Fdifference-between-link-and-hyperlink%2F&psig=AOvVaw3Fe3IXGpri7QgYgofkDgr-&ust=1721193834953000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj8-OzoqocDFQAAAAAdAAAAABAE">](https://github.com/marufrahmangit/project-malware)
-- Data forensics and incident response [🔗](https://github.com/marufrahmangit/hack-the-box) (Hackthebox)
+- Malware console applications with Python [link](https://github.com/marufrahmangit/project-malware)
+- Data forensics and incident response [link](https://github.com/marufrahmangit/hack-the-box) (Hackthebox)
