@@ -23,8 +23,16 @@ Remove the `tempnotes.txt` file from the `/home/analyst/notes` directory and lis
 
 ![image](https://github.com/user-attachments/assets/5e9babc9-08cd-4804-9ac7-dd13f4f2672b)
 
+
 # Create a new file
 Create a file named tasks.txt in the /home/analyst/notes directory that you’ll use to document completed tasks: `touch <file>` > `ls`
 
 ![image](https://github.com/user-attachments/assets/95b6e5c7-64d3-4a79-96b2-f1c301186f27)
+
+# Edit a file
+Edit the `tasks.txt file` and add a note describing the tasks you’ve completed: `nano <tasks.txt>` to open the editor > write content > `CTRL + X` to close the editor > `Y` to save content > Press `Enter` to confirm save and close
+
+![image](https://github.com/user-attachments/assets/05a21cfa-4a8a-409a-a616-0828c9e4f39c)
+
+
 
