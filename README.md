@@ -6,7 +6,7 @@ Recently, I have acquired the Google [IT Support](https://www.coursera.org/profe
 The professional certificates have prepared me for industry-ready jobs where my ultimate goal is to become a Security Analyst. The role suits me perfectly because I have strong analytical abilities, persistence, eagerness to adapt and learn, a can-do attitude, problem-solving skills, tech skills, and communication skills to address problems and emerging threats. As of July 2024, I am preparing to take the IBM Cybersecurity Analyst Professional and the CompTIA Security+ certificates.
 
 # Portfolio
-This is my cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn professional Cybersecurity Certificates. These programs have provided insights into:
+This is my cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn professional Cybersecurity Certificates. I have also referred completed incident response challenges from the popular **hackthebox** platform to this portfolio. These programs have provided me with insights into:
 
 - Programming for cybersecurity tasks
 - Frameworks and controls in security operations
