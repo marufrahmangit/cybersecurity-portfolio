@@ -1,5 +1,5 @@
 # Scenario
-As an analyst, you have to determine which employee devices must be updated. You also need to investigate user login activity to explore if any unusual activity has occurred.
+As a system administrator, you have to determine which employee devices must be updated. You also need to investigate user login activity to explore if any unusual activity has occurred.
 
 The information you need is located in the `machines` and `login_attempts` tables in the organization database.
 
@@ -18,7 +18,7 @@ Next, I need information on the operating systems used on various devices and th
 
 ![image](https://github.com/user-attachments/assets/6fb841ef-bd5f-40cb-901c-3041a786a3a5)
 
-# Investigate login activity
+# Examine login activity
 I need to analyze the information from the `log_in_attempts` table to determine if any unusual activity has occurred.
 
 First, I need to investigate the locations where login attempts were made to ensure that they’re in expected areas (the United States, Canada, or Mexico).
@@ -42,5 +42,3 @@ I need to sequence the data that my query returns according to the login date an
 
 ![image](https://github.com/user-attachments/assets/a0a21a52-b177-4940-9206-6a1750ca740b)
 
-# Summary
-In order to complete this task, I used SQL query filters such as the `WHERE` clause and the `ORDER BY` as well as any operators necessary such as the `LIKE` operator that uses the `%` symbol.
