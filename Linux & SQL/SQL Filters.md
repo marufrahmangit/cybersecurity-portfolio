@@ -37,7 +37,7 @@ Next, check if login attempts were made outside of the organization's working ho
 
 I need to get a complete picture of all login attempts.
 
-![image](https://github.com/user-attachments/assets/a82b7cae-6e10-423f-ac0a-080afed3f7bb)
+![image](https://github.com/user-attachments/assets/7cc4a2a2-77b8-4039-bf8b-03edbf6eb4e7)
 
 # Order login attempts data
 I need to sequence the data that my query returns according to the login date and time.
