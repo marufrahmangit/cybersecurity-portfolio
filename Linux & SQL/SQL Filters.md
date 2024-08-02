@@ -29,9 +29,7 @@ Next, check if there were any login attempts made from Australia.
 
 ![image](https://github.com/user-attachments/assets/75706589-cbaf-48b1-a938-f19f38a4926c)
 
-No attempts were made from Australia as shown by the empty set returned.
-
-Next, check if login attempts were made outside of the organization's working hours.
+No attempts were made from Australia as shown by the empty set returned. Next, check if login attempts were made outside of the organization's working hours.
 
 ![image](https://github.com/user-attachments/assets/18826873-1bb2-4570-b5f9-3ed24c68d64d)
 
