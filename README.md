@@ -25,7 +25,7 @@ Additionally, it has paved the way for me to pursue one of the following cyberse
 - Cyber Defense Analyst
 
 ### Projects
-Here is a list of projects I have completed or are working on and to acquire associated skills and knowledge:
+Here is a list of projects I have completed/working on and to acquire associated skills and knowledge:
 
 | Projects | Skills/Knowledge |
 | --------------- | --------------- |
