@@ -13,16 +13,21 @@ The bank is located in a coastal area with low crime rates. Many people and syst
 Doing business with other companies might increase the risks to data since it presents other avenues for the information to be compromised. The risk of theft is important, but might not be a priority because the bank is in an area with low crime rates.
 
 **Asset:** The asset at risk of being harmed, damaged, or stolen.
+
 **Risk(s):** A potential risk to the organization's information systems and data.
+
 **Description:** A vulnerability that might lead to a security incident.
+
 **Likelihood:** Score from 1-3 of the chances of a vulnerability being exploited. 
 - A 1 means there's a low likelihood.
 - A 2 means there's a moderate likelihood.
 - A 3 means there's a high likelihood.
+
 **Severity:** Score from 1-3 of the potential damage the threat would cause to the business. 
 - A 1 means a low severity impact.
 - A 2 is a moderate severity impact.
 - A 3 is a high severity impact.
+
 **Priority:** How quickly a risk should be addressed to avoid the potential incident. Use the following formula to calculate the overall score: `Likelihood x Impact Severity = Risk`.
 
 ## Sample Risk Matrix:
