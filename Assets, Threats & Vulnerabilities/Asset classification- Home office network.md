@@ -35,7 +35,7 @@ Here is the table converted to Markdown format:
 
 
 | Asset            | Network access | Owner                       | Location          | Notes                                                                 | Sensitivity    |
-|------------------|----------------|-----------------------------|-------------------|-----------------------------------------------------------------------|----------------|
+|--------------------------|---------------------------|-----------------------------|-------------------|-----------------------------------------------------------------------|----------------|
 | Network router   | Continuous     | Internet service provider (ISP) | On-premises       | Has a 2.4 GHz and 5 GHz connection. All devices on the home network connect to the 5 GHz frequency. | Confidential   |
 | Desktop          | Occasional     | Homeowner                   | On-premises       | Contains private information, like photos.                            | Restricted     |
 | Guest smartphone | Occasional     | Friend                      | On and Off-premises | Connects to my home network.                                          | Internal-only  |
