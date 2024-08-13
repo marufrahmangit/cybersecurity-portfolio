@@ -27,7 +27,7 @@ Then, you’ll list important characteristics of each device such as its owner, 
 | Laptop          | Occasional               | Homeowner         | On-premises            | Contains private information, like media and work files.                            | Restricted     |
 | Guest smartphone | Occasional               | Friend            | On and Off-premises   | Connects to my home network.                                          | Internal-only  |
 | Smart home devices | Occasional             | Homeowner         | On and Off-premises   | Connects to my home network.                                          | Internal-only  |
-| Storage devices or servers | Continuous     | Cloud service provider    | On-premises           | Connects to my home network.                                          | Restricted  |
+| Servers | Continuous     | Cloud service provider    | On-premises           | Connects to my home network.                                          | Restricted  |
 
 ### Access Sensitivity
 
