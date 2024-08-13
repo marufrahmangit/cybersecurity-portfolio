@@ -2,7 +2,7 @@
 
 [Project reference](https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity) 
 
-## Case Study Scenario
+# Scenario
 
 This is based on a fictional company:
 
