@@ -8,4 +8,5 @@ The bank is located in a coastal area with low crime rates. Many people and syst
 | Financial records leak    | A database server of backed up data is publicly accessible. |                          |            |          |          |
 | Theft                     | The bank's safe is left unlocked. |                                                              |            |          |          |
 | Supply chain disruption   | Delivery delays due to natural disasters. |                        |            |          |          |
-|**Notes:**                 | How are security events possible considering the risks the asset faces in its operating environment? |
+
+**Notes:**                 How are security events possible considering the risks the asset faces in its operating environment?
