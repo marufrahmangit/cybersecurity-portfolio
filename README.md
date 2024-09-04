@@ -1,12 +1,5 @@
-# Professional Statement
-I am Maruf Rahman. I am a Programmer, Technical Writer, and an aspiring Cybersecurity Professional with almost a decade of experience in the IT industry working with various tools and technologies. I completed my Bachelor's degree in Information Technology in 2017 and started my career as a software developer. Over the years, I have worked with different tools and technologies in software development and IT in general, and also managed projects/teams.
-
-Recently, I have acquired the Google [IT Support](https://www.coursera.org/professional-certificates/google-it-support) and [Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity/home/welcome) Professional Certificates, the [ISC2 Cybersecurity Specialization Certificate](https://www.coursera.org/specializations/certified-in-cybersecurity), and completed a few other training courses to pursue my passion for technology and Cybersecurity. 
-
-The professional certificates (***in addition to my previous experience and expertise with various tools and technologies***) have prepared me for industry-ready jobs where my ultimate goal is to become a Security Analyst. The role suits me perfectly because I have strong analytical abilities, persistence, eagerness to adapt and learn, a can-do attitude, problem-solving skills, tech skills, and communication skills to address problems and emerging threats. As of July 2024, I am preparing to take the IBM Cybersecurity Analyst Professional and the CompTIA Security+ certificates.
-
 # Portfolio
-This is my cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn professional Cybersecurity Certificates. I have also referred completed incident response challenges from the popular **hackthebox** platform to this portfolio. These programs have provided me with insights into:
+This is my cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Professional Cybersecurity Certificates. Here's what I learned:
 
 - Programming for cybersecurity tasks
 - Frameworks and controls in security operations
